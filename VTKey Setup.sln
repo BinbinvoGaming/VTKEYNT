@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VTKey Setup", "VTKey Setup\VTKey Setup.vdproj", "{8818274B-8954-432B-B5BB-3C36E40A4CF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8818274B-8954-432B-B5BB-3C36E40A4CF5}.Debug|Default.ActiveCfg = Debug
+		{8818274B-8954-432B-B5BB-3C36E40A4CF5}.Debug|Default.Build.0 = Debug
+		{8818274B-8954-432B-B5BB-3C36E40A4CF5}.Release|Default.ActiveCfg = Release
+		{8818274B-8954-432B-B5BB-3C36E40A4CF5}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1BD0BB3-36A0-41FB-8BCC-800222785C2E}
+	EndGlobalSection
+EndGlobal
